@@ -6,7 +6,7 @@
   "washAvailable": true,
   "vacuumAvailable": true,
   "laundryAvailable": true,
-  "gasAvailable": true
+  "gasAvailable": false
 }
 
 
