@@ -6,8 +6,8 @@
   "washAvailable": true,
   "vacuumAvailable": false,
   "laundryAvailable": true,
-  "gasAvailable": false,
-  "stationGasAvailable": ["Z7"],
+  "gasAvailable": true,
+  "stationGasAvailable": [],
   "promotionsAvailable": false,
   "gasPixAvailable": false
 }
