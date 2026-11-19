@@ -9,7 +9,7 @@
   "gasAvailable": true,
   "stationGasAvailable": [],
   "promotionsAvailable": true,
-  "gasPixAvailable": false
+  "gasPixAvailable": true
 }
 
 
